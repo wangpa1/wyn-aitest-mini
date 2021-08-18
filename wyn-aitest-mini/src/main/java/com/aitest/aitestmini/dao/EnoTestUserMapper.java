@@ -4,5 +4,5 @@ import org.mapstruct.Mapper;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public class EneTestUserMapper {
+public class EnoTestUserMapper {
 }
