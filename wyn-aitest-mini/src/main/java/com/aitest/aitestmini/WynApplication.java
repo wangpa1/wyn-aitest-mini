@@ -1,4 +1,4 @@
-package com.aitest.demo;
+package com.aitest.aitestmini;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

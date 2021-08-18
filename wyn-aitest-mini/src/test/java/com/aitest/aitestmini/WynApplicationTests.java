@@ -1,4 +1,4 @@
-package com.aitest.demo;
+package com.aitest.aitestmini;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
