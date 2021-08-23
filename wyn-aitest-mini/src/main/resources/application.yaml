@@ -9,7 +9,7 @@ spring:
   application:
     name: aitest
   datasource:
-    url: jdbc:mysql://8.142.27.67:3306/aitest_mini?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    url: jdbc:mysql://8.142.27.67:3306/wyn?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
     username: root
     password: root
     driver-class-name: com.mysql.cj.jdbc.Driver
